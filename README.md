@@ -1,3 +1,5 @@
+![Mi Banner](Banner.png)
+
 # 💫 About Me:
 👨‍💻 About Me<br><br>Hi, I'm José Pablo (JPab-yeipi), an Artificial Intelligence Engineering student from Mexico.<br><br>I want to become a better developer and gain real experience in software development and AI.<br><br>I'm interested in turning ideas into real projects.<br><br>I'm currently at the beginning of my journey, but I'm committed to learning every day and working hard toward my goals.<br><br>🌱 Always learning<br>🚀 Always building<br>🎯 Always improving
 
