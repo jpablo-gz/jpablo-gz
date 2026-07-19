@@ -1,4 +1,4 @@
-![Mi Banner](banner.png)
+![Mi Banner](banner_jp.png)
 
 # 💫 About Me:
 👨‍💻 About Me<br><br>Hi, I'm José Pablo, an Artificial Intelligence Engineering student from Mexico.<br><br>I want to become a machine learning engineer and gain real experience in software development and AI.<br><br>I'm interested in turning ideas into real projects.<br><br>I'm currently at the beginning of my journey, but I'm committed to learning every day and working hard toward my goals.<br><br>🌱 Always learning<br>🚀 Always building<br>🎯 Always improving
