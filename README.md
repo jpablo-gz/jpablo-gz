@@ -6,12 +6,12 @@
 
   <!-- Opens LinkedIn profile -->
   <a href="https://www.linkedin.com/in/jose-pablo-gz">
-    <img src="assets/Linkedin.png" height="50" alt="LinkedIn" />
+    <img src="assets/linkedin.png" height="40" alt="LinkedIn" />
   </a>
  
   <!-- Opens the default email app -->
   <a href="mailto:josepablo.gz@outlook.com">
-    <img src="assets/email.png" height="50" alt="Email" />
+    <img src="assets/email.png" height="40" alt="Email" />
   </a>
 
 </div>
