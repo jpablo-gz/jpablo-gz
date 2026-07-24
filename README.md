@@ -25,9 +25,9 @@ I'm currently at the beginning of my professional journey, so there is still a l
 🚀 Always building<br>
 🎯 Always improving -->
 
-<img src="assets/about_me.svg" width="100%" alt="About me" />
-
----
+<!-- Pixel art "about me" info -->
+![About me](assets/aboutme_white.svg#gh-dark-mode-only)
+![About me](assets/aboutme_black.svg#gh-light-mode-only)
 
 ## 💻 My Skills
 
